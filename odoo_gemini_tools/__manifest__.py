@@ -4,7 +4,7 @@
     'summary': "Odoo Gemini IA Integration",
     'author': "Yhasmani Valdes Migenes, OCTUPUS TECHNOLOGIES S.L",
     'category': 'Tools',
-    'version': '17.0.0.0.1',
+    'version': '17.0.1.0.1',
     'depends': ['base', 'web'],
     'license': 'LGPL-3',
     'external_dependencies': {

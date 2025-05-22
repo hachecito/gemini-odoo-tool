@@ -1,1 +1,1 @@
-# gemini-odoo-tool
+# gemini-odoo-tool by @hachecito
