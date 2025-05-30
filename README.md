@@ -70,7 +70,7 @@ gemini-odoo-tool/
 
 ## 🙋‍♂️ Contributing
 
-Contributions are welcome! Please open issues and pull requests. Check out the [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+Contributions are welcome! Please open issues and pull requests.
 
 ---
 
